@@ -1,4 +1,4 @@
 # Repaso
 
 imagen de bandera 
-![recursos](assets/img/bandera.png)
+![Sin titulo](assets/img/bandera.png)
