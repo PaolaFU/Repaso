@@ -1,3 +1,4 @@
 # Repaso
 
-![recursos](assets/img/bandera.png)
+
+![recursos](assets/img-read/bandera.png)
